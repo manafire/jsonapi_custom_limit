@@ -13,4 +13,3 @@ services:
       - "@jsonapi.serializer"
       - "@datetime.time"
       - "@current_user"
-# - { name: http_middleware, priority: 201 }
