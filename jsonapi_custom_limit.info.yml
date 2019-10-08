@@ -1,0 +1,9 @@
+name: "JSON:API Custom Page Limit"
+type: module
+description: "Allows you to change the imposed 50 page result limit from jsonapi module."
+core: 8.x
+package: "Web Services"
+version: 1.0.0
+
+dependencies:
+  - jsonapi:jsonapi (>=8.x-2.4)
